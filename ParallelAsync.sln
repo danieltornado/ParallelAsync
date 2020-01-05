@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelAsync", "ParallelAsync\ParallelAsync.csproj", "{B447878E-7749-4D7A-A8FC-94AAB409A6D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelAsyncTests", "ParallelAsyncTests\ParallelAsyncTests.csproj", "{3C8E3A51-F415-4335-9217-65FD83ECAE15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B447878E-7749-4D7A-A8FC-94AAB409A6D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B447878E-7749-4D7A-A8FC-94AAB409A6D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B447878E-7749-4D7A-A8FC-94AAB409A6D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B447878E-7749-4D7A-A8FC-94AAB409A6D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C8E3A51-F415-4335-9217-65FD83ECAE15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C8E3A51-F415-4335-9217-65FD83ECAE15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C8E3A51-F415-4335-9217-65FD83ECAE15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C8E3A51-F415-4335-9217-65FD83ECAE15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1D52D99-341A-44CD-86E5-009491B5FF21}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tornado:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ParallelAsync\\ParallelAsync.csproj
+		SccProjectName1 = ParallelAsync
+		SccLocalPath1 = ParallelAsync
+		SccProjectUniqueName2 = ParallelAsyncTests\\ParallelAsyncTests.csproj
+		SccProjectName2 = ParallelAsyncTests
+		SccLocalPath2 = ParallelAsyncTests
+	EndGlobalSection
+EndGlobal
